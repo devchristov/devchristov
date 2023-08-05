@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming language
 - 💞️ I’m looking to collaborate on programming field
 - 📫 How to reach me from email : coderun.idbuss@gmail.com
-- Always support my youtube channel : https://youtube.com/devtroyer
+- Youtube Channel : https://youtube.com/@Devtroyer
 
 <!---
 devchristov/devchristov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
